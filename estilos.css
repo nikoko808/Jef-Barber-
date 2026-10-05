@@ -38,7 +38,7 @@ header{
     0 0 40px rgba(0, 255, 255, 0.5);
     
 }
-img {
+.local {
     max-width: 100%;
     height: auto;
 }
