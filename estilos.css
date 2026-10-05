@@ -38,6 +38,15 @@ header{
     0 0 40px rgba(0, 255, 255, 0.5);
     
 }
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+iframe {
+    max-width: 100%;
+}
+ 
 .ubi{
     background-color: antiquewhite;
     border-radius: 20px;
