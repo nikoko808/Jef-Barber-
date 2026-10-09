@@ -36,7 +36,13 @@ header{
     0 0 10px #00ffff,
     0 0 20px #00ffff,
     0 0 40px rgba(0, 255, 255, 0.5);
-    
+    h1{
+    .pacifico-regular {
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+}}
+
 }
 .local {
     max-width: 100%;
